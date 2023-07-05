@@ -1,4 +1,5 @@
 # VBA-challenge
-VBA-challenge Homework_Ning Gao_03172023
-description: The goal of this task is to use one VBA script, loop through every worksheet at once, and output information like ticker symbol, yearly change, percent change and total stock volume for each year. From there, also calculate the greatest increase and decrease precentages,and greatest total volume for each year.
-technologies: The script utilizes for loops.
+![image](https://github.com/RabNing/VBA_challenge/assets/126477871/fedbd08d-74d2-4345-b19b-5704c1492744)
+
+#Project Background: 
+You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
